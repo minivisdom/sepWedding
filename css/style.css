@@ -1,0 +1,143 @@
+	body {
+	background: url(http://www.trbimg.com/img-530e5ad5/turbine/lat-mg-pippa-royal-wedding-wre0004608026-20110429/2048/2048x1253);
+	background-attachment: fixed;
+}
+.topbar {
+	background-color: #81C784;
+	width: 100%;
+	height: 80px;
+}
+.search {
+	padding: 10px 20px;
+	background: rgba(50, 50, 50, 0.2);
+	border: 5px solid #dbdbdb;
+}
+.button {
+	position: relative;
+	padding: 6px 15px;
+	left: -8px;
+	border: 2px solid #207cca;
+	background-color: #005662;
+	color: P — Dark;
+}
+.button:hover {
+	background-color: #005662;
+	color: P — Dar;
+}
+.downbar {
+	width: 100%;
+	height: 100px;
+	padding: 30px;
+	float: left;
+}
+.fa:hover {
+	opacity: 0.7;
+}
+.fa {
+	padding: 10px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 30%;
+}
+.fa-facebook {
+	background: #004c8c;
+	color: white;
+}
+.fa-google {
+	background: #dd4b39;
+	color: white;
+}
+.fa-yahoo {
+	background: #430297;
+	color: white;
+}
+
+}
+@media screen and (max-width: 600px) {
+	body {
+		width: 95%;
+	}
+	.s-menu {
+		display: inline-block;
+		float: right;
+		padding-right: 60px;
+	}
+	nav .navigation, nav:active .navigation {
+		display: none;
+		position: absolute;
+		padding: 20px;
+		background: #fff;
+		border: 5px solid #444;
+		right: 20px;
+		top: 60px;
+		width: 50%;
+		border-radius: 4px 0 4px 4px;
+	}
+	nav .list {
+		text-align: center;
+		width: 100%;
+		padding: 10px;
+		margin: 0;
+	}
+	nav:hover .navigation {
+		display: block;
+	}
+	.menu-lines {
+		border-radius: 5px;
+		width: 30px;
+		height: 5px;
+		background-color: #fff;
+		margin: 5px;
+	}
+	#mainbar, .mainbar {
+		float: left;
+		width: 100%;
+		border-style: solid;
+		border-width: px;
+		border-color: #000;
+	}
+}
+@media screen and (max-width: 600px) {
+	body {
+		width: 95%;
+	}
+	.s-menu {
+		display: inline-block;
+		float: right;
+		padding-right: 60px;
+	}
+	nav .navigation, nav:active .navigation {
+		display: none;
+		position: absolute;
+		padding: 20px;
+		background: #fff;
+		border: 5px solid #444;
+		right: 20px;
+		top: 60px;
+		width: 50%;
+		border-radius: 4px 0 4px 4px;
+	}
+	nav .list {
+		text-align: center;
+		width: 100%;
+		padding: 10px;
+		margin: 0;
+	}
+	nav:hover .navigation {
+		display: block;
+	}
+	.menu-lines {
+		border-radius: 5px;
+		width: 30px;
+		height: 5px;
+		background-color: #fff;
+		margin: 5px;
+	}
+	#mainbar, .mainbar {
+		float: left;
+		width: 100%;
+		border-style: solid;
+		border-width: px;
+		border-color: #000
+	}
